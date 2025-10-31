@@ -1,4 +1,3 @@
-git-flow
 pandas
 numpy
 matplotlib
@@ -11,3 +10,4 @@ fastapi
 uvicorn
 sqlalchemy
 joblib
+xgboost
